@@ -1,0 +1,1 @@
+Simple and convenient flashcard app with multiple features. You can create, edit, or import packs of flashcards, search them by name, and manage everything within a single app with a clean and user-friendly interface.
